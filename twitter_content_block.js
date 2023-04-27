@@ -11,7 +11,6 @@
 
 (function() {
     'use strict';
-    var elems1 = document.getElementById('react-root').remove();
-    console.log(elems1);
+    document.body.remove();
 
 })();
