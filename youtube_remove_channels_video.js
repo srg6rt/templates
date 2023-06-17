@@ -24,7 +24,9 @@ const channels_id = ["/@news24tvua",
                     "/@uniantv",
                     "/@krapivnyy",
                     "/@UkrlifeTvi",
-                    "/@varlamov"];
+                    "/@varlamov",
+                    "/@holovanov",
+                    "/@yulialatynina71"];
 
 
 // Use setInterval for run every 2 seconds
